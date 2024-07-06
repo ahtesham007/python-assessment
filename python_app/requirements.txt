@@ -5,3 +5,4 @@ pandas
 PyJWT
 PyMySQL
 SQLAlchemy
+python-dotenv
