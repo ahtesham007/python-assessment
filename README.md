@@ -59,8 +59,8 @@ This repository has solution for the assessment questions
 **End points**
 
 1. /signup - POST
-2. /login  - POST
-3. /upload  - POST
+2. /login - POST
+3. /upload_data - POST
 4. /summary  - GET
 
 **Features**
@@ -70,4 +70,5 @@ This repository has solution for the assessment questions
 -  SQLAlchemy ORM
 -  Data Cleaning
 -  Summary
+-  Moduler
    
