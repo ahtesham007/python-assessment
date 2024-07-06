@@ -1,0 +1,11 @@
+product_id,product_name,category,price,quantity_sold,rating,review_count
+1,Running Shoes,Shoes,1500,25,4.5,120
+2,Wireless Headphones,Electronics,2500,,4.8,78
+3,Baseball Bat,Sports,5000,10,4.2,32
+4,Yoga Mat,Fitness,500,50,4.7,180
+5,Coffee Maker,Kitchen,3000,,3.9,92
+6,Travel Mug,Kitchen,700,200,4.4,254
+7,Board Game,Games,,,,48
+8,Playing Cards,Games,200,75,4.3,110
+9,T-Shirt,Clothing,,15,4.8,90
+10,Jeans,Clothing,1600,,4.6,125
