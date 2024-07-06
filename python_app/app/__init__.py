@@ -58,7 +58,7 @@ def create_app():
 
         db.init_app(app)
 
-        jwt = JWTManager(app)  # Initialize JWTManager
+        JWTManager(app)
 
         with app.app_context():
             from . import routes  # Import routes blueprint
