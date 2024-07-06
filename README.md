@@ -68,4 +68,6 @@ This repository has solution for the assessment questions
 -  Exception Handling
 -  JWT Token
 -  SQLAlchemy ORM
+-  Data Cleaning
+-  Summary
    
