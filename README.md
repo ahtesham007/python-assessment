@@ -4,11 +4,11 @@ This repository has solution for the assessment questions
 
 1. SQL Assesment
 
-  Based on the question query has been provided in the in the .sql file
+   Based on the question query has been provided in the in the .sql file
 
-2. Python Assesment
+4. Python Assesment
 
-  All the requirement have been implemented
+    All the requirements have been implemented
 
 ## Setup
 1. **Clone the repository:**
@@ -38,7 +38,34 @@ This repository has solution for the assessment questions
    Create a .env file in the root of the project. Add the necessary environment variables.
 
    ```bash
-   FLASK_APP=app.py
+   FLASK_APP=run.py
    FLASK_ENV=development
 
+   #Database Config
+   DATABASE_USER=
+   DATABASE_PASSWORD=
+   DATABASE_HOST=localhost
+   DATABASE_PORT=3306
+   DATABASE_NAME=
+
+   #JWT Config
+   JWT_SECRET_KEY=
+
+5. **Run the Flask app:**
+
+   ```bash
+   flask run
+
+**End points**
+
+1. /signup - POST
+2. /login  - POST
+3. /upload  - POST
+4. /summary  - GET
+
+**Features**
+-  Logging
+-  Exception Handling
+-  JWT Token
+-  SQLAlchemy ORM
    
