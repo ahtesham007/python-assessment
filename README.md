@@ -4,7 +4,7 @@ This repository has solution for the assessment questions
 
 1. SQL Assesment
 
-   Based on the question query has been provided in the in the .sql file
+   Based on the question query has been provided in the .sql file
 
 4. Python Assesment
 
