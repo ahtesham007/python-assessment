@@ -1,4 +1,4 @@
-# stantech-ai-assessment
+# Python-assessment
 This repository has solution for the assessment questions
 
 
